@@ -14,7 +14,7 @@ metadata:
     janus-idp.io/tekton: test-artifactory 
     backstage.io/kubernetes-id: test-artifactory 
     backstage.io/techdocs-ref: dir:. 
-    quay.io/repository-slug: pkumari@redhat.com/test-docker
+    quay.io/repository-slug: admin/test-docker
   tags: ["python", "pip", "flask", "sscs", "sbom", "acs"] 
 spec:
   type: service
